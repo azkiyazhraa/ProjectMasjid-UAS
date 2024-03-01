@@ -20,7 +20,7 @@ $ar_buah[2] = "Leci";
 <body style="background-color: pink;">
     <h1 class="text-center my-2 fw-bold">Definisi Array</h1>
     <div class="card p-4 m-4">
-        <h2><?php echo $ar_buah; ?></h2>
+        <h2>Array</h2>
         <p>Jumlah buah : <?php echo count($ar_buah); ?></p>
         <table class="table bg-light">
             <thead>
